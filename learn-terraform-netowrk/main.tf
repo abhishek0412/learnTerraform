@@ -16,14 +16,20 @@ provider "azurerm" {
 
 # Create a resource group
 resource "azurerm_resource_group" "rg" {
-  name     = "myTerraformResource"
-  location = "eastus"
+  name     = var.resource_group_name
+  location = var.location
+  tags = {
+    purpose = var.tagname
+  }
 }
 
 # Create a virtual network
 resource "azurerm_virtual_network" "vnet" {
-  name                = "myTerraformVnet"
+  name                = var.vnet_name
   address_space       = ["10.0.0.0/16"]
-  location            = "eastus"
+  location            = var.location
   resource_group_name = azurerm_resource_group.rg.name
+  tags = {
+    purpose = var.tagname
+  }
 }
