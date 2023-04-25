@@ -1,20 +1,57 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+<h2 align="center">
+  My first Terraform scripts - v1.0<br/>
+</h2>
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+<center>
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) &nbsp;
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/abhishekchoudharry/myfastapi) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) &nbsp;
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/abhishek0412/myFastAPI/docker-image.yml) &nbsp;
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+</center>
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
+<h3 align="center">
+    🔹
+    <a href="https://github.com/abhishek0412/myFastAPI/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/abhishek0412/myFastAPI/issues">Request Feature</a>
+</h3>
+
+</br>
+
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [abhishek0412](https://github.com/abhishek0412/myFastAPI). Thanks!
+
+## Built With
+
+My personal FAST API <a href="https://github.com/abhishek0412/myFastAPI" target="_blank">Abhishek Choudhary</a> which features some of my learning with FAST API and technical skills gained.<br/>
+
+This project was built using these technologies.
+
+- Python
+- FAST API
+- unicorn
+- VsCode
+
+## Features
+
+**Prepare your first fastapi web api**
+
+**create GET/PUT/POST call**
+
+**Host the web API using unicorn**
+
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
+<a href="https://www.buymeacoffee.com/abshekchoudhary" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
+
+
+
+
