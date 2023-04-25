@@ -25,7 +25,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal FAST API <a href="https://github.com/abhishek0412/learnTerraform" target="_blank">Abhishek Choudhary</a> which features some of my learning with FAST API and technical skills gained.<br/>
+My terraform learning scripts <a href="https://github.com/abhishek0412/learnTerraform" target="_blank">Abhishek Choudhary</a> which features some of my learning with Terraform and technical skills gained.<br/>
 
 This project was built using these technologies.
 
