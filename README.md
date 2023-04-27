@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) &nbsp;
-
+<img src="https://komarev.com/ghpvc/?username=abhishek0412&style=flat-square&color=blue" alt=""/>
 
 </center>
 
